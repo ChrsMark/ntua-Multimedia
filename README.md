@@ -11,7 +11,7 @@ Using the nice Graphical-Interface the user can enjoy all of the feaures the app
 
 Features:
 
-1) Creating a playing lists with songs from your file system.
+1) Creating a playing list with songs from your file system.
 
 2) Take the full control of the playing progress through the play/pause/resume/fast-forward options. The playing progress are being displayed on a nice progress bar, giving the oportunity to know in which part of the song you are throuth the time.
 
