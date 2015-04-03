@@ -7,7 +7,7 @@ This is the project for the Multimedia Technology course 2013-2014 at NTUA ECE.
 This project is the implementation of a fully functional MP3 player application.
 The project consists of two parts, the fuctional part and the UI part.
 
-Using the nice Graphical-Interface the user can enjoy all of the feaures the application provides.
+Using the nice Graphical-Interface the user can enjoy all of the features the application provides.
 
 Features:
 
